@@ -21,7 +21,7 @@ expiryDate = ["expiryDate"]
 
 [params.author]
   name = "Larry Vincent"
-  about = "Professor of the Practice of Marketing, USC Marshall School of Business"
+#  about = "Professor of the Practice of Marketing, USC Marshall School of Business"
 
 [blackfriday]
   # hrefTargetBlank = true
