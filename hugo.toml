@@ -52,7 +52,7 @@ expiryDate = ["expiryDate"]
 
   description = "Central location for lecture material used by Larry Vincent."
   # images = [""]
-  themeColor = "#FDCA49"
+  themeColor = "#FFFFF"
   accentColor = "#018472"
 
   homeSubtitle = "Larry Vincent, USC Marshall School of Business"

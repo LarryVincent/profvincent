@@ -5,7 +5,6 @@ draft: false
 layout: "single"
 ---
 
-# Terms of Service
 
 Last updated: January 2025
 
@@ -86,8 +85,6 @@ We reserve the right to modify or replace these Terms at any time. If a revision
 For questions about these Terms of Service, please contact:
 
 **Larry Vincent**  
-Email: [your-email@usc.edu]
-
----
+Email: larry@profvincent.com
 
 [Return to Home](/)

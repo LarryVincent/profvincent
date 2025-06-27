@@ -5,7 +5,6 @@ draft: false
 layout: "single"
 ---
 
-# Privacy Policy
 
 Last updated: January 2025
 
@@ -67,8 +66,6 @@ We may update this privacy policy from time to time. We will notify users of any
 For questions about this privacy policy or to exercise your rights, please contact:
 
 **Larry Vincent**  
-Email: [your-email@usc.edu]
-
----
+Email: larry@profvincent.com
 
 [Return to Home](/)
