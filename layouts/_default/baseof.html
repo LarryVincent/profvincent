@@ -47,5 +47,14 @@
 {{- partial "mathjax.html" . -}}
 {{- partial "mermaid.html" . -}}
 {{- if templates.Exists "partials/extra-foot.html" -}}{{- partial "extra-foot.html" . -}}{{- end }}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ENTWX0RZJV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ENTWX0RZJV');
+</script>
 </body>
 </html>
